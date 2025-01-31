@@ -1,0 +1,13 @@
+.click {
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
+
+.click.positive {
+    background-color: rgb(32, 85, 93);
+    color:rgb(239, 178, 178)
+}
+
+.click.negative {
+    background-color: rgb(255, 255, 162);
+}
