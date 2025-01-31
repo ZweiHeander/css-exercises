@@ -1,0 +1,18 @@
+.Odd.Numbers {
+    background-color: rgb(210, 130, 143);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#Better {
+    color:blue;
+    font-size: 36px;
+}
+
+#Even-Better {
+    background-color: rgb(143, 226, 143);
+    font-size: 24px;
+    font-weight: bold;
+}
+.Odd.Numbers.Odder {
+    font-size: 24px;
+}
